@@ -1,0 +1,5 @@
+print("Digite dois números:\n")
+num = int(input())
+n = int(input())
+
+print(f"A soma é {num + n}.")
